@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on baidu, jylink
+- 🔭 I’m currently working on Baidu, Jylink
 - 🌱 I’m currently learning MediaServer, Go, Linux, Java
 - 📫 How to reach me: iwanlebron@gmail.com
 
