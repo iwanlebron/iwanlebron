@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ## 🛠️ Languages and Tools
 
-- **Languages:** Golang, JavaScript, Java
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Others:** Docker, Kubernetes, Git, Linux
+- **Languages:** Golang, Java
+- **Databases:** MySQL, Redis, MongoDB
+- **Others:** Docker, Git, Linux
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate or just chat about tech.
