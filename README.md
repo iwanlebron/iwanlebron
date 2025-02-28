@@ -5,11 +5,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 ## 🚀 About Me
 
 - 🔭 I’m currently working on several open-source projects
-- 🌱 I’m currently learning advanced machine learning techniques and cloud computing
-- 👯 I’m looking to collaborate on innovative projects that can make a difference
-- 💬 Ask me about web development, AI, and open-source contributions
 - 📫 How to reach me: [Email](mailto:iwanlebron@example.com)
-- ⚡ Fun fact: I love hiking and exploring the outdoors
 
 ## 🛠️ Languages and Tools
 
