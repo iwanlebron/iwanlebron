@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ## 🛠️ Languages and Tools
 
-- **Languages:** Golang, Java
-- **Databases:** MySQL, Redis, MongoDB, Kafka, TSDB, Minio
-- **Others:** Docker, Git, Linux, K8S, AI
+- **Languages:** Golang, Java, PHP
+- **Middleware:** MySQL, Redis, Mongo, Kafka, TSDB, Minio
+- **Others:** Docker, Git, Linux, K8S, AI, Ffmpeg
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate or just chat about tech.
